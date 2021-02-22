@@ -1,6 +1,6 @@
 site_name: The Wilcox Classical Museum
 
-pages:
+nav:
     - Getting Started:
         - 'Home': 'index.md'
         - 'about.md'
@@ -9,6 +9,7 @@ pages:
         - 'managing_items.md'
         - 'managing_pages.md'
         - 'images.md'
-    - Understanding the Ontology: 'wcx_ontology.md'
+    - Metadata:
+        - 'wcx_ontology.md'
 
 theme: readthedocs

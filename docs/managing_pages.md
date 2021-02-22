@@ -1,6 +1,4 @@
-# Managing Pages
-
-## Create a Page
+# Create a Page
 
 From the **Admin Dashboard** click **Sites** at the top of the left-hand menu and then select “The Wilcox Classical Museum.” Omeka S is capable of hosting multiple sites on the same server, but the Wilcox Collection only requires the single “site” for its purposes. This will open up an additional set of menu options in the left-hand menu.
 
@@ -55,6 +53,3 @@ Once you’ve created and saved the new page. Click **Navigation** in the menu o
 The test page we just created was added to the bottom of the navigation hierarchy. You can click and drag the page and place it wherever you desire within the hierarchy. Notice that page links can be nested inside others. For example, there are several pages nested under **About Us** which creates a dropdown menu on the public site. 
 
 Once you’ve placed the new page in its final location, click the **Save** button.
-
-
-## Edit a Page
