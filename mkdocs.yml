@@ -1,12 +1,14 @@
 site_name: The Wilcox Classical Museum
 
 nav:
-  - Home: index.md
-  - about.md
-  - Creating a New User: create_user.md
-  - Managing Items: managing_items.md
-  - Managing Pages: managing_pages.md
-  - Uploading Images: images.md
+    - 'Getting Started':
+      - Home: index.md
+      - about.md
+    - 'Basic Tasks':
+      - create_user.md
+      - managing_items.md
+      - managing_pages.md
+      - images.md
   - Understanding the Ontology: wcx_ontology.md
 
 theme: readthedocs
