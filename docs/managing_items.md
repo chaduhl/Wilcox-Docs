@@ -4,8 +4,7 @@
 
 From the **Admin Dashboard**, navigate to Items. Click the **Add new item** button in the top right-hand corner. Select what type of item you would like to create from the **Resource Template** dropdown menu and begin filling in the fields with information about the item.
 
-Note: Be sure to follow naming and formatting conventions as supplied by the curator.
-As an example, we will create a new entry for a coin together. To begin, choose **Coin** from the **Resource Template** dropdown menu. This will automatically populate the screen with the necessary fields for entering information about a coin. 
+> Note: Be sure to follow naming and formatting conventions as supplied by the curator. As an example, we will create a new entry for a coin together. To begin, choose **Coin** from the **Resource Template** dropdown menu. This will automatically populate the screen with the necessary fields for entering information about a coin.
 
 Then, click the dropdown menu for **Class** and select **Coin**. This will be at the bottom of the dropdown menu, listed under **Wilcox Collection Ontology**.
 

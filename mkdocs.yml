@@ -2,7 +2,7 @@ site_name: The Wilcox Classical Museum
 
 nav:
   - Home: index.md
-  - About: about.md
+  - about.md
   - Creating a New User: create_user.md
   - Managing Items: managing_items.md
   - Managing Pages: managing_pages.md

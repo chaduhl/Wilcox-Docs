@@ -1,4 +1,4 @@
-# Wilcox Documentation
+# About
 
 ## How the Site is Set Up
 
