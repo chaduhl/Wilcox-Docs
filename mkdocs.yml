@@ -1,1 +1,12 @@
 site_name: My Docs
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Creating a New User: create_user.md
+  - Managing Items: managing_items.md
+  - Managing Pages: managing_pages.md
+  - Uploading Images: images.md
+  - Understanding the Ontology: wcx_ontology.md
+
+theme: readthedocs
