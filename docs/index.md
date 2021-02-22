@@ -1,6 +1,6 @@
 # Wilcox Documentation
 
-# Introduction
+## Introduction
 
 The Wilcox site runs on an independent CPanel server at the University of Kansas and employs Omeka S as a content management system. The following documentation is intended as a guide for students and faculty of the Department of Classics with information about uploading, updating, and managing items within the collection as well as individual static pages. This documentation aims to extend the more general [Omeka S documentation](https://omeka.org/s/docs/user-manual/). 
 
@@ -19,13 +19,13 @@ Here is a list of the **Item Sets**:
 
 Additionally, there are hidden **Item Sets** which facilitate how the site organizes metadata. For example, one hidden **Item Set** is **Material**, which contains item entries for all the types of material that coins can be made from. Having these item entries allow us to link together coins that are made from the same material and thus allows public users to sort items by their material. Public users of the site do not need to see these items, and so they are hidden from view.
 
-# Introduction to Metadata
+## Introduction to Metadata
 
 Omeka S was chosen for its robust content management system and its foundations in linked-open data. The site uses a custom XML ontology, named **Wilcox Collection Ontology**, to organize and maintain the metadata (e.g. an item’s physical dimensions, conservation state, description, etc.) for all objects within the collection. This method for organizing the data allows for future flexibility and sharing of the collection with other scholarly projects. 
 
 Every information field that should be used for items is part of this ontology. Full documentation of the ontology can be found under **Wilcox Collection Ontology**.
 
-# Create a New User
+## Create a New User
 
 Any user designated as an admin on the site can create a new user. To do so, simply access the **Admin Dashboard** by logging in at [wilcox.ku.edu/admin](http://wilcox.ku.edu/admin). You should see the screen below:
 
@@ -48,7 +48,7 @@ Click the **Add new user** button in the top right hand corner of the screen and
 
 Once you click **Add** in the top right-hand corner of the screen, an email will be sent to the email address you entered asking the new user to finish creating their account by choosing a password.
 
-# Create an Item
+## Create an Item
 
 From the **Admin Dashboard**, navigate to Items. Click the **Add new item** button in the top right-hand corner. Select what type of item you would like to create from the **Resource Template** dropdown menu and begin filling in the fields with information about the item.
 
@@ -144,7 +144,7 @@ This will bring you to the same type of page as when you create a new item, exce
 
 From here, you can edit the information that needs to be amended, change the media associated with the item, change the item’s item set, etc. Be sure to click the save button in the top right after you’re finished. 
 
-# Create a Page
+## Create a Page
 
 From the **Admin Dashboard** click **Sites** at the top of the left-hand menu and then select “The Wilcox Classical Museum.” Omeka S is capable of hosting multiple sites on the same server, but the Wilcox Collection only requires the single “site” for its purposes. This will open up an additional set of menu options in the left-hand menu.
 
@@ -200,14 +200,14 @@ The test page we just created was added to the bottom of the navigation hierarch
 
 Once you’ve placed the new page in its final location, click the **Save** button.
 
-# Edit a Page
+## Edit a Page
 
 
-# Batch Upload Images
+## Batch Upload Images
 
 Info about uploading images to server and then choosing sideload in the item edit screen.
 
-# Wilcox Collection Ontology
+## Wilcox Collection Ontology
 
 A table of the custom XML ontology developed for the Wilcox Classical Museum.
 
