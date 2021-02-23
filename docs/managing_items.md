@@ -2,7 +2,9 @@
 
 ## Create a New Item
 
-From the **Admin Dashboard**, navigate to Items. Click the **Add new item** button in the top right-hand corner. Select what type of item you would like to create from the **Resource Template** dropdown menu and begin filling in the fields with information about the item.
+From the **Admin Dashboard**, navigate to **Items**. Click the **Add new item** button in the top right-hand corner. Select what type of item you would like to create from the **Resource Template** dropdown menu and begin filling in the fields with information about the item.
+
+![](https://paper-attachments.dropbox.com/s_04D4B96ED6B883620D60816BA63E30BA4100FB8A7D113F5FF9905518B80A349D_1614111731790_image.png)
 
 > **Note:**
 > Be sure to follow naming and formatting conventions as supplied by the curator. As an example, we will create a new entry for a coin together. To begin, choose **Coin** from the **Resource Template** dropdown menu. This will automatically populate the screen with the necessary fields for entering information about a coin.
@@ -22,7 +24,12 @@ Note: For many items, the **Old Inventory Number** field is hidden from public v
 
 Each information field has a name, a description to explain what exactly should go into that field, and an identifier formatted as `wcx:[identifier]`. The identifier corresponds to the XML metadata schema developed for the collection. Do not worry about this, since it only pertains to the accessibility of the collection to other linked-open data projects.
 
-Let’s assume we know the exact date for this coin to be 100 BCE. To indicate this in the data, type -100 into the date field. If the exact date is unknown, enter a date range for the object. For more information on the formatting for individual fields, see the section entitled **Wilcox Collection Ontology**.
+Let’s assume we know the exact date for this coin to be 100 BCE. To indicate this in the data, type -100 into the date field. For Wilcox metadata schema, a negative number indicates BCE while a positive number indicates CE.
+
+If the exact date is unknown, enter a date range for the object in the correct fields.
+
+> **Note:**
+> For more information on the formatting for individual fields, see the section entitled [**Wilcox Collection Ontology**](wcx_ontology.md).
 
 For some information fields, you must choose another Omeka item as the field input. A good example of this is the **Material** field. To enter a coin’s material, find the **Material** information field and click the button entitled @icon-cubes **Omeka resource**. 
 
